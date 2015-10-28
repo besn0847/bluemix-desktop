@@ -28,3 +28,7 @@ Minimal desktop screenshot :
 Bluemix console screenshot : 
 
 <img src="https://github.com/besn0847/bluemix-desktop/raw/master/bluemix-desktop.png" width=400/>
+
+Issues
+. #1 : The 5900/tcp port is not exposed through IBM Containers
+. #2 : The IBM Containers volume is not mounted in teh container
